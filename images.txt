@@ -1,1 +1,2 @@
 linuxserver/qbittorrent
+johngong/qbittorrent
